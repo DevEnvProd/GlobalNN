@@ -1,0 +1,15 @@
+# robots.txt for Global News Network (GNN)
+User-agent: *
+Allow: /
+Allow: /politics
+Allow: /technology
+Allow: /business
+Allow: /sports
+Allow: /entertainment
+Allow: /article/
+
+# Hostname
+Host: https://globalnewsnetwork.live
+
+# Sitemap Link
+Sitemap: https://globalnewsnetwork.live/sitemap.xml

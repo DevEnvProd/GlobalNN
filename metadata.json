@@ -1,0 +1,6 @@
+{
+  "name": "Global News Network",
+  "description": "A comprehensive, high-performance news platform covering global breaking news, politics, technology, business, sports, and entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
